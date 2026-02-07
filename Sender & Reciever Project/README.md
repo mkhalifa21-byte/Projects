@@ -32,5 +32,4 @@ To run the sender and reciever, please use one terminal for the sender and anoth
 Since everyone in our group has different schedules, we tried to divide up the work and utilized discord to communicate. Mohamed worked on the sender file and sent it to the group for validation. Conrad and Mark worked on the receiver file and sent it back to Mohamad for validation where he made improvements on the code and sent it back to the group. Once both the sender and receiver files were complete, we ran the code sending a dummy MP3 file to test our work and were successful in having the receiver file play the MP3.
 
 Results Screenshot:<img width="1920" height="1080" alt="Screenshot 2024-06-18 at 1 59 46 PM" src="https://github.com/user-attachments/assets/ef36e08f-e59c-460c-9f2c-d6384cf3e8d8" />
-<img width="1920" height="1080" alt="Screenshot 2024-06-18 at 1 59 46 PM" src="https://github.com/user-attachments/assets/ef36e08f-e59c-460c-9f2c-d6384cf3e8d8" />
 
