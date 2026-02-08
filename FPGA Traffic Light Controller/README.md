@@ -1,0 +1,2 @@
+# FPGA Traffic Light Controller Project
+* This project implemented a traffic light controller on an FPGA using a Moore finite state machine written in Verilog. The system used a clock divider to create real-time timing and simulated vehicle sensors to control state transitions between North–South and East–West traffic. The final design demonstrated sequential logic, state-based control, and real-time LED outputs on the FPGA board.
