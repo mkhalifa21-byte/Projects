@@ -1,4 +1,1 @@
-# Position Acquisition System using the ADC and LCD
-* This lab focused on designing a real-time position acquisition system using the STM32’s 12-bit ADC and an LCD display, implemented entirely in C.
-* The project required modifying the LCD driver to support numeric output, developing an interrupt-driven ADC driver, collecting calibration data, and converting analog potentiometer readings into fixed-point position values. 
-* The final system used periodic timer interrupts and a mailbox mechanism to sample the ADC in real time and display the measured position on the LCD with millimeter-level resolution.
+#Position Acquisition System using the ADC and LCD 
